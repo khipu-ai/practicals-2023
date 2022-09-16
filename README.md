@@ -1,5 +1,7 @@
-# Deep Learning Indaba Practicals 2022
-  
+# Khipu 2022 Practicals
+
+Derived from **Deep Learning Indaba Practicals 2022** with permission from the authors.
+
 ## The Practicals 
 | Topic 💥 | Description 📘 |
 |:--- |----------------------------------------------------------|
