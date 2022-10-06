@@ -1,7 +1,5 @@
 # Khipu 2022 Practicals
 
-Derived from **Deep Learning Indaba Practicals 2022** with permission from the authors.
-
 ## Contents
 | Topic 💥 | Description 📘 |
 |:--- |----------------------------------------------------------|
@@ -13,6 +11,7 @@ Derived from **Deep Learning Indaba Practicals 2022** with permission from the a
 [Intro to Reinforcement Learning](https://github.com/khipu-ai/practicals-2023/blob/main/notebooks/reinforcement_learning.ipynb) <br /> <br /> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/khipu-ai/practicals-2023/blob/main/notebooks/reinforcement_learning.ipynb) | In this tutorial, we will be learning about Reinforcement Learning, a type of Machine Learning where an agent learns to choose actions in an environment that lead to maximal reward in the long run. RL has seen tremendous success on a wide range of challenging problems such as learning to play complex video games like [Atari](https://www.deepmind.com/blog/agent57-outperforming-the-human-atari-benchmark), [StarCraft II](https://www.deepmind.com/blog/alphastar-mastering-the-real-time-strategy-game-starcraft-ii) and [Dota II](https://openai.com/five/). In this introductory tutorial we will solve the classic [CartPole](https://www.gymlibrary.ml/environments/classic_control/cart_pole/) environment, where an agent must learn to balance a pole on a cart, using several different RL approaches. Along the way you will be introduced to some of the most important concepts and terminology in RL. | 
 [Fairness In Machine Learning](https://github.com/khipu-ai/practicals-2023/blob/main/notebooks/fairness.ipynb) <br /> <br /> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/khipu-ai/practicals-2023/blob/main/notebooks/fairness.ipynb) | In this tutorial, we will be learning about Reinforcement Learning, a type of Machine Learning where an agent learns to choose actions in an environment that lead to maximal reward in the long run. RL has seen tremendous success on a wide range of challenging problems such as learning to play complex video games like [Atari](https://www.deepmind.com/blog/agent57-outperforming-the-human-atari-benchmark), [StarCraft II](https://www.deepmind.com/blog/alphastar-mastering-the-real-time-strategy-game-starcraft-ii) and [Dota II](https://openai.com/five/). In this introductory tutorial we will solve the classic [CartPole](https://www.gymlibrary.ml/environments/classic_control/cart_pole/) environment, where an agent must learn to balance a pole on a cart, using several different RL approaches. Along the way you will be introduced to some of the most important concepts and terminology in RL. | 
 
+## Attribution
 
 This repository contains the practical notebooks for Khipu.ai 2023. This is (strongly) based on the [practicals developed for Indaba 2022](https://github.com/deep-learning-indaba/indaba-pracs-2022) with kind permission from the authors.
 
