@@ -1,6 +1,5 @@
-# Khipu 2022 Practicals
+# Khipu 2023 Practicals
 
-## Contents
 | Topic 💥 | Description 📘 |
 |:--- |----------------------------------------------------------|
 [Introduction to ML using JAX](https://github.com/khipu-ai/practicals-2023/blob/main/notebooks/algebra_and_jax.ipynb) <br /> <br /> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/khipu-ai/practicals-2023/blob/main/notebooks/Introduction_to_ML_using_JAX.ipynb) | In this tutorial, we will learn about JAX, a new machine learning framework that has taken deep learning research by storm! JAX is praised for its speed, and we will learn how to achieve these speedups, using core concepts in JAX, such as automatic differentiation (`grad`), parallelization (`pmap`), vectorization (`vmap`), just-in-time compilation (`jit`), and more.   | 
