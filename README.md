@@ -13,6 +13,6 @@
 
 ## Attribution
 
-This repository contains the practical notebooks for Khipu.ai 2023. This is (strongly) based on the [practicals developed for Indaba 2022](https://github.com/deep-learning-indaba/indaba-pracs-2022) with kind permission from the authors.
+The above practicals are derived from the  [practicals developed for Indaba 2022](https://github.com/deep-learning-indaba/indaba-pracs-2022) with kind permission from the authors.
 
 
